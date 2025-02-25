@@ -1,3 +1,4 @@
 # (っ◔◡◔)っWOW WEBSITE WAWWW !!11 
-![monkey](giphy.gif)
-# meeee
+<p style="display: flex; justify-content: center; align-items: center;">
+  <img src="text.gif" alt="monkey">
+</p>
