@@ -4,7 +4,7 @@ Senior Vice President of Recursive Disalignment at the Center for Nonlinear Depl
 
 Briefly ran an enterprise-grade JPEG compression consultancy. Advised multinationals on YAML-induced existential crises.
 
-Acting CTO (Chief Typo Officer) at startup-without-a-product-dot-xyz.
+Acting CTO (Chief Typo Officer) at nonsense browser named R.
 
 ## Currently Learning
 
